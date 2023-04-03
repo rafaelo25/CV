@@ -1,0 +1,21 @@
+body{margin: 0px;}
+.titulo{color: #DA0000;}
+.foto{border-radius: 100px;
+border-color: aliceblue;
+border-style: solid;
+margin: 20px;}
+.nombre{text-align: center;
+    background: linear-gradient(180deg, rgba(29,165,166,0.7512254901960784) 50%, rgba(255,255,255,0) 50%);
+}
+.rafa{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: xx-large;}
+.linea{width: 85%;
+height: 3px;
+background-color: black;
+margin-left: 8%;}
+.cuerpo{display: flex;
+margin-left: 100px;}
+.izquierda{width: 50%;
+background-color: seashell;}
+.derecha{width: 50%;
+background-color: seashell;}
